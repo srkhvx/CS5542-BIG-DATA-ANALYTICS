@@ -1,0 +1,20 @@
+mode 1:  startseq man in red shirt is standing on the street endseq
+mode 2:  startseq two children are playing in the grass endseq
+mode 3:  startseq two children are playing on the grass endseq
+mode 4:  startseq two children are playing on the beach endseq
+mode 5:  startseq two girls are playing on the beach endseq
+mode 6:  startseq two children are playing on the beach endseq
+mode 7:  startseq two girls are playing on the beach endseq
+mode 8:  startseq two girls are playing on the beach endseq
+mode 9:  startseq man in black shirt and jeans is standing in front of building endseq
+mode 10:  startseq man in red shirt is walking down the street endseq
+mode 11:  startseq man in black shirt is walking down the street endseq
+mode 12:  startseq man in black shirt and jeans is walking down the street endseq
+mode 13:  startseq two girls are playing on trampoline endseq
+mode 14:  startseq two children are playing on trampoline endseq
+mode 15:  startseq man in black shirt is walking down the street endseq
+mode 16:  startseq man in black shirt is walking down the street endseq
+mode 17:  startseq man in black shirt is standing in front of building endseq
+mode 18:  startseq two children are playing on trampoline endseq
+mode 19:  startseq man in black shirt is walking down the street endseq
+mode 19:  startseq man in black shirt is walking down the street endseq
